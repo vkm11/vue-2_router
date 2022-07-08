@@ -1,4 +1,9 @@
 # vue-2_router
+## npm install vue-router@3.0.6 --save
+
+# vue-3_router
+## npm install vue-router@next --save
+
 
 ## Project setup
 ```
